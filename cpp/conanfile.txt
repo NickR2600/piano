@@ -1,0 +1,6 @@
+ [requires]
+ tinkerforge-bindings/2.1.32
+
+ [generators]
+ CMakeToolchain
+ CMakeDeps
